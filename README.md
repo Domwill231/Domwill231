@@ -11,8 +11,5 @@ Uncover meaningful patterns Drive business growth Contribute to data-informed st
 I am currently expanding my skill set through coursework in data analysis, visualization, and statistical modeling, and I am enthusiastic about applying these skills in a new role. Let's Connect! I am looking to connect with professionals in the data analytics field for insights, mentorship, and potential collaboration opportunities. Let's connect and explore how we can create value through the power of data!
 
 
-## Hi there 👋
 
-<!--
-**Domwill231/Domwill231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
