@@ -1,6 +1,6 @@
 🌟 Welcome to My Profile! 🌟
 
-Aspiring Data Analyst | Health Insurance Benefits Consultant With a solid foundation in health insurance benefits consulting, I am excited to pivot my career towards the dynamic field of data analytics. My experience in the healthcare sector has equipped me with a unique perspective on the importance of data-driven decision-making and its impact on improving patient outcomes and operational efficiencies. Professional Experience In my previous role,
+Aspiring Data Analyst with a solid foundation in health insurance benefits consulting, I am excited to pivot my career towards the dynamic field of data analytics. My experience in the healthcare sector has equipped me with a unique perspective on the importance of data-driven decision-making and its impact on improving patient outcomes and operational efficiencies. Professional Experience In my previous role,
 
 I collaborated closely with clients to analyze their health benefits Identified trends to enhance service delivery Developed strategies that enriched the overall client experience
 
